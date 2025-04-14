@@ -1,0 +1,2 @@
+# 功能 Y v2 文件 (開發中)
+New implementation approach
