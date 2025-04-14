@@ -1,2 +1,9 @@
-# Git Exercise
-This repository is created for practicing Git commands.
+# Git 練習倉庫
+
+這個倉庫包含兩個 Git 練習，用於測試和提升您的 Git 技能。
+
+## 練習 1: 混亂分支結構整理
+位於 `Git Exercise 1` 目錄中，這個練習包含一個混亂的分支結構，需要進行整理。
+
+## 練習 2: 混亂分支結構整理-超級複雜及困難版
+位於 `Git Exercise 2` 目錄中，這個練習包含一個更加複雜的分支結構，需要高級的 Git 技能來解決。
