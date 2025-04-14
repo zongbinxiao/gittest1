@@ -1,2 +1,2 @@
 Shared file line 1
-Client A specific code
+Client B specific code (conflicts with A)
