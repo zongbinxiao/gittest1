@@ -1,3 +1,4 @@
 # 發布 2.0 文件
 Feature A for Release 2.0
 Feature B for Release 2.0
+Hotfix 2.0.1
