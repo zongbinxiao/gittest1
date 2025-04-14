@@ -2,3 +2,5 @@
 Feature X - added in develop (will conflict)
 Feature Y Base
 Feature Y v2 (in development)
+Feature Y v1 (abandoned)
+590e080 (Feature Y v1 implementation (later abandoned) (功能 Y v1 實現，後來放棄))
