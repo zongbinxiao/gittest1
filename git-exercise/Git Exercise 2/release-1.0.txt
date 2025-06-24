@@ -1,3 +1,6 @@
 # 發布 1.0 文件
 Hotfix 1.0.1
+<<<<<<< HEAD
 Hotfix 1.0.2
+=======
+>>>>>>> legacy-support

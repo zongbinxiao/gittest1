@@ -1,4 +1,9 @@
 # 開發分支文件
 Feature X - added in develop (will conflict)
+<<<<<<< HEAD
 Updated develop, feature-Z needs rebasing
 Release 2.0
+=======
+Feature Y Base
+Feature Y v1 (abandoned)
+>>>>>>> legacy-support
