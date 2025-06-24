@@ -1,0 +1,4 @@
+# 開發分支文件
+Feature X - added in develop (will conflict)
+Feature Y Base
+Feature Y v1 (abandoned)
