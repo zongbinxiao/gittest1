@@ -1,0 +1,4 @@
+# 開發分支文件
+Feature X - added in develop (will conflict)
+Updated develop, feature-Z needs rebasing
+Release 2.0
