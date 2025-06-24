@@ -1,2 +1,0 @@
-Shared file line 1
-Client B specific code (conflicts with A)
